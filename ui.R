@@ -58,4 +58,3 @@ shinyUI(
   )
   )
 ))
-#don't forget to change the sever.ui variables to make it work :)
